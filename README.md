@@ -1,2 +1,2 @@
-# FEFULabs
+# StudyLabs
 My FEFU study labs
